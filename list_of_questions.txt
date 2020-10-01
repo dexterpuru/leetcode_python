@@ -3,8 +3,8 @@ EASY:-
 - Best Time To Buy and Sell Stocks
 
 MEDIUM:-
-4Sum
-
+- 4Sum
+- 3Sum
 
 HARD:-
 
