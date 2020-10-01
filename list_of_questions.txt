@@ -1,4 +1,5 @@
 EASY:-
+- Contains Duplicate
 
 
 MEDIUM:-
