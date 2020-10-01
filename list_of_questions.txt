@@ -6,6 +6,8 @@ MEDIUM:-
 - 4Sum
 - 3Sum
 - 4Sum II
+- 153 Find Minimum in Rotated Sorted Array
+- 186 Reverse Words in a String II
 
 HARD:-
 
