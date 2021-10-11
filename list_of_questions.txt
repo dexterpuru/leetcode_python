@@ -7,6 +7,7 @@ MEDIUM:-
 - 3Sum
 - 4Sum II
 - Container With Most Water
+- Longest Substring Without Repeating Characters
 
 HARD:-
 
